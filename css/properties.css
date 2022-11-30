@@ -1,0 +1,200 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+h1{
+    justify-content: center;
+}
+
+.container{
+    display: inline-grid;
+    grid-template-areas: 
+        'image mad-lib';
+    padding: 10px;
+}
+
+.entry1{
+    grid-area: entry1;
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry2{
+    grid-area: entry2;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry3{
+    grid-area: entry3;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry4{
+    grid-area: entry4;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry5{
+    grid-area: entry5;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry6{
+    grid-area: entry6;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry7{
+    grid-area: entry7;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry8{
+    grid-area: entry8;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry9{
+    grid-area: entry9;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry10{
+    grid-area: entry10;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry11{
+    grid-area: entry11;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry12{
+    grid-area: entry12;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry13{
+    grid-area: entry13;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry14{
+    grid-area: entry14;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry15{
+    grid-area: entry15;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry16{
+    grid-area: entry16;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry17{
+    grid-area: entry17;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry18{
+    grid-area: entry18;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.entry19{
+    grid-area: entry19;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#show-mad-lib{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.image{
+    grid-area: image;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    grid-area: footer;
+    padding: 10px;
+    font-size: 12px;
+}
+
+#reset-button{
+    display: none;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
